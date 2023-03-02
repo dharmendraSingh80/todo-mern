@@ -1,5 +1,10 @@
 # todo-mern
-this is an mern web application
+This is a MERN web application
+
+## Features
+- users can register and login and add new todo 
+- users can delete their todos
+- users can mark completed or not completed
 ## Screenshots
 ### Home page after login
 
